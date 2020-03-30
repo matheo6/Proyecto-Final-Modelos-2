@@ -4,6 +4,6 @@ Proyecto Final MODELOS2 Implementacion de un servicio atravez de la web para con
 twitter usando diferentes paradigmas y principios de programacion, uso de diferentes framworks tanto para el front-end 
 como para el back-end
 
-Distribucion
+##Distribucion
 
-El proyecto se divide en dos modulos, [el modulo de la logica ](Server Tweeter/)
+El proyecto se divide en dos modulos, [el modulo de la logica ](Server-Tweeter/)
