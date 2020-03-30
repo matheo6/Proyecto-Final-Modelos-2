@@ -1,6 +1,6 @@
 # Proyecto-Final-Modelos-2
 
-Proyecto Final MODELOS2 Implementacion de un servicio atravez de la web para consultar usuarios de twitter desarrollado en python usando diferentes paradigmas y principios de programacion, uso de diferentes framworks tanto para el front-end 
+Proyecto Final MODELOS2 Implementacion de un servicio atravez de la web para consultar usuarios de twitter desarrollado en python usando diferentes paradigmas y principios de programacion, uso de diferentes frameworks tanto para el front-end 
 como para el back-end
 
 **Distribucion
