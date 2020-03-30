@@ -33,7 +33,7 @@ El tercero es la segunda vista, que se muestra al realizar la busqueda del usuar
 
 La segunda Carpeta Contiene el documento css para los stilos [static](https://github.com/matheo6/Proyecto-Final-Modelos-2/tree/master/View/static)   en donde se vera el archivo css [main.css](https://github.com/matheo6/Proyecto-Final-Modelos-2/blob/master/View/static/main.css)
 
-Ademas en este mismo modulo " [El modulo de la vista](https://github.com/matheo6/Proyecto-Final-Modelos-2/tree/master/View) "se encontraran otros dos arcihvos escritos en python encargados de realizar la conexion al servidor llamado [webapp.py](https://github.com/matheo6/Proyecto-Final-Modelos-2/blob/master/View/webapp.py) el cual atravez de flask permite crear la aplicacion web y el otro recive los datos de la web para ser enviados al servidor[forms.py](https://github.com/matheo6/Proyecto-Final-Modelos-2/blob/master/View/forms.py) 
+Ademas en este mismo modulo " [El modulo de la vista](https://github.com/matheo6/Proyecto-Final-Modelos-2/tree/master/View) "se encontraran otros dos arcihvos escritos en python encargados de realizar la conexion al servidor llamado [webapp.py](https://github.com/matheo6/Proyecto-Final-Modelos-2/blob/master/View/webapp.py) el cual atravez de flask permite crear la aplicacion web y el otro recive los datos de la web para ser enviados al servidor [forms.py](https://github.com/matheo6/Proyecto-Final-Modelos-2/blob/master/View/forms.py) 
 
 
 
